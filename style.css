@@ -1,0 +1,26 @@
+.background{
+    background-color: #192a56;
+}
+h1{
+    background-color: red;
+    text-align: center;
+    color: white;
+}
+p{
+    background-color: #44bd32;
+    text-align: center;
+    color: white;
+}
+body{
+    background-image:url(img/Sri\ lanka.jpg) ;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+#p{
+    text-align: center;
+    background-color: aqua;
+    border: 5px solid red ;
+    border-radius: 20px;
+}
